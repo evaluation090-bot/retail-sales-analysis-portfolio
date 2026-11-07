@@ -1,0 +1,146 @@
+order_id,customer_id,product,category,quantity,unit_price,sales_amount,order_date,region,payment_method
+ORD-10001,CUST-0001,Laptop,Electronics,5,651.84,3259.20,2025-01-05,North,Card
+ORD-10002,CUST-0002,Office Chair,Furniture,3,200.73,602.19,2025-01-07,South,Cash
+ORD-10003,CUST-0003,Headphones,Electronics,3,43.92,131.76,09/01/2025,East,Mobile Money
+ORD-10004,CUST-0004,Printer Paper,Office Supplies,12,6.63,79.56,2025-01-11,West,Bank Transfer
+ORD-10005,CUST-0005,T-Shirt,Clothing,3,17.89,53.67,2025-01-13,North,Card
+ORD-10006,CUST-0006,Coffee,Groceries,1,12.36,12.36,15/01/2025,South,Cash
+ORD-10007,CUST-0007,Monitor,Electronics,4,310.55,1242.20,2025-01-17,East,Mobile Money
+ORD-10008,CUST-0008,Desk,Furniture,5,259.31,1296.55,2025-01-19,West,Bank Transfer
+ORD-10009,CUST-0009,Notebook,Office Supplies,11,3.81,41.91,21/01/2025,North,Card
+ORD-10010,CUST-0010,Jeans,Clothing,4,52.11,208.44,2025-01-23,South,Cash
+ORD-10011,CUST-0011,Rice,groceries,5,17.16,85.80,2025-01-25,East,Mobile Money
+ORD-10012,CUST-0012,Keyboard,Electronics,2,34.20,68.40,27/01/2025,West,Bank Transfer
+ORD-10013,CUST-0013,Bookshelf,Furniture,5,154.77,773.85,2025-01-29, north ,Card
+ORD-10014,CUST-0014,Pen Set,Office Supplies,11,9.61,105.71,2025-01-31,South,Cash
+ORD-10015,CUST-0015,Jacket,Clothing,5,89.75,448.75,02/02/2025,East,Mobile Money
+ORD-10016,CUST-0016,Cooking Oil,Groceries,1,13.99,13.99,2025-02-04,West,Bank Transfer
+ORD-10017,CUST-0017,Laptop,Electronics,1,663.95,663.95,2025-02-06,North,Card
+ORD-10018,CUST-0018,Office Chair,Furniture,4,189.17,756.68,08/02/2025,South,Cash
+ORD-10019,CUST-0019,Headphones,Electronics,5,43.61,218.05,2025-02-10,East,Mobile Money
+ORD-10020,CUST-0020,Printer Paper,Office Supplies,7,6.77,47.39,2025-02-12,West,Bank Transfer
+ORD-10021,CUST-0021,T-Shirt,Clothing,3,17.54,52.62,not-a-date,North,Card
+ORD-10022,CUST-0022,Coffee,groceries,3,13.19,39.57,2025-02-16,South,Cash
+ORD-10023,CUST-0023,Monitor,Electronics,3,297.62,892.86,2025-02-18,East,Mobile Money
+ORD-10024,CUST-0024,Desk,Furniture,4,238.79,955.16,20/02/2025,West,Bank Transfer
+ORD-10025,CUST-0025,Notebook,Office Supplies,1,3.83,3.83,2025-02-22,North,Card
+ORD-10026,CUST-0026,Jeans,Clothing,2,51.89,103.78,2025-02-24, south ,Cash
+ORD-10027,CUST-0027,Rice,Groceries,2,20.45,40.90,26/02/2025,East,Mobile Money
+ORD-10028,CUST-0028,Keyboard,Electronics,5,40.00,200.00,2025-02-28,West,Bank Transfer
+ORD-10029,CUST-0029,Bookshelf,Furniture,1,146.02,,2025-03-02,North,Card
+ORD-10030,CUST-0030,Pen Set,Office Supplies,5,9.58,47.90,04/03/2025,South,Cash
+ORD-10031,CUST-0031,Jacket,Clothing,5,103.14,515.70,2025-03-06,East,Mobile Money
+ORD-10032,CUST-0032,Cooking Oil,Groceries,5,14.69,73.45,2025-03-08,West,Bank Transfer
+ORD-10033,CUST-0033,Laptop,electronics,2,630.52,1261.04,10/03/2025,North,Card
+ORD-10034,CUST-0034,Office Chair,Furniture,3,199.15,597.45,2025-03-12,South,Cash
+ORD-10035,CUST-0035,Headphones,Electronics,3,43.88,131.64,2025-03-14,East,Mobile Money
+ORD-10036,CUST-0036,Printer Paper,Office Supplies,2,6.89,13.78,16/03/2025,West,Bank Transfer
+ORD-10037,CUST-0037,T-Shirt,Clothing,5,20.44,102.20,2025-03-18,North,Card
+ORD-10038,CUST-0038,Coffee,Groceries,3,11.75,35.25,2025-03-20,South,Cash
+ORD-10039,CUST-0039,Monitor,Electronics,3,295.63,886.89,22/03/2025, east ,Mobile Money
+ORD-10040,CUST-0040,Desk,Furniture,3,243.54,730.62,2025-03-24,West,Bank Transfer
+ORD-10041,CUST-0041,,Office Supplies,1,3.73,3.73,2025-03-26,North,Card
+ORD-10042,CUST-0042,Jeans,Clothing,3,53.44,160.32,28/03/2025,South,Cash
+ORD-10043,CUST-0043,Rice,Groceries,4,17.00,68.00,2025-03-30,East,Mobile Money
+ORD-10044,CUST-0044,Keyboard,electronics,5,36.89,184.45,2025-04-01,West,Bank Transfer
+ORD-10045,CUST-0045,Bookshelf,Furniture,2,150.09,300.18,03/04/2025,North,Card
+ORD-10046,CUST-0046,Pen Set,Office Supplies,12,11.09,133.08,2025-04-05,South,Cash
+ORD-10047,CUST-0047,Jacket,Clothing,5,102.91,514.55,2025-04-07,East,Mobile Money
+ORD-10048,CUST-0048,Cooking Oil,Groceries,2,13.67,27.34,09/04/2025,West,Bank Transfer
+ORD-10049,CUST-0049,Laptop,Electronics,3,722.92,2168.76,2025-04-11,North,Card
+ORD-10050,CUST-0050,Office Chair,Furniture,1,198.82,198.82,2025-04-13,South,Cash
+ORD-10051,CUST-0051,Headphones,Electronics,1,50.06,50.06,15/04/2025,East,Mobile Money
+ORD-10052,CUST-0052,Printer Paper,Office Supplies,9,6.13,55.17,2025-04-17, west ,Bank Transfer
+ORD-10053,CUST-0053,T-Shirt,Clothing,3,20.55,61.65,2025-04-19,North,Card
+ORD-10054,CUST-0054,Coffee,Groceries,1,12.14,12.14,21/04/2025,South,Cash
+ORD-10055,CUST-0055,Monitor,electronics,4,300.34,1201.36,2025-04-23,East,Mobile Money
+ORD-10056,CUST-0056,Desk,Furniture,3,261.07,783.21,2025-04-25,West,Bank Transfer
+ORD-10057,CUST-0057,Notebook,Office Supplies,,3.92,43.12,27/04/2025,North,Card
+ORD-10058,CUST-0058,Jeans,Clothing,4,51.43,205.72,2025-04-29,South,Cash
+ORD-10059,CUST-0059,Rice,Groceries,1,18.93,18.93,2025-05-01,East,Mobile Money
+ORD-10060,CUST-0060,Keyboard,Electronics,2,34.73,69.46,03/05/2025,West,Bank Transfer
+ORD-10061,CUST-0061,Bookshelf,Furniture,3,155.28,465.84,2025-05-05,North,Card
+ORD-10062,CUST-0062,Pen Set,Office Supplies,5,9.29,46.45,2025-05-07,South,Cash
+ORD-10063,CUST-0063,Jacket,Clothing,4,98.54,394.16,09/05/2025,East,Mobile Money
+ORD-10064,CUST-0064,Cooking Oil,Groceries,4,13.74,54.96,2025-05-11,West,Bank Transfer
+ORD-10065,CUST-0065,Laptop,Electronics,4,665.04,2660.16,2025-05-13, north ,Card
+ORD-10066,CUST-0066,Office Chair,furniture,4,168.85,675.40,15/05/2025,South,Cash
+ORD-10067,CUST-0067,Headphones,Electronics,4,49.23,196.92,2025-05-17,East,Mobile Money
+ORD-10068,CUST-0068,Printer Paper,Office Supplies,4,6.35,25.40,2025-05-19,West,Bank Transfer
+ORD-10069,CUST-0069,T-Shirt,Clothing,2,21.15,42.30,21/05/2025,North,Card
+ORD-10070,CUST-0070,Coffee,Groceries,5,11.80,59.00,2025-05-23,South,Cash
+ORD-10071,CUST-0071,Monitor,Electronics,5,330.74,1653.70,2025-05-25,,Mobile Money
+ORD-10072,CUST-0072,Desk,Furniture,4,223.38,893.52,27/05/2025,West,Bank Transfer
+ORD-10073,CUST-0073,Notebook,Office Supplies,6,3.90,23.40,2025-05-29,North,Card
+ORD-10074,CUST-0074,Jeans,Clothing,2,60.83,121.66,2025-05-31,South,Cash
+ORD-10075,CUST-0075,Rice,Groceries,5,17.78,88.90,02/06/2025,East,Mobile Money
+ORD-10076,CUST-0076,Keyboard,Electronics,3,35.76,107.28,2025-06-04,West,Bank Transfer
+ORD-10077,CUST-0077,Bookshelf,furniture,2,147.10,294.20,2025-06-06,North,Card
+ORD-10078,CUST-0078,Pen Set,Office Supplies,6,10.09,60.54,08/06/2025, south ,Cash
+ORD-10079,CUST-0079,Jacket,Clothing,1,97.25,97.25,2025-06-10,East,Mobile Money
+ORD-10080,CUST-0080,Cooking Oil,Groceries,5,13.14,65.70,2025-06-12,West,Bank Transfer
+ORD-10081,CUST-0081,Laptop,Electronics,5,714.82,3574.10,14/06/2025,North,Card
+ORD-10082,CUST-0082,Office Chair,Furniture,5,193.68,968.40,2025-06-16,South,Cash
+ORD-10083,CUST-0083,Headphones,Electronics,4,46.58,186.32,2025-06-18,East,Mobile Money
+ORD-10084,CUST-0084,Printer Paper,Office Supplies,9,5.92,53.28,20/06/2025,West,Bank Transfer
+ORD-10085,CUST-0085,T-Shirt,Clothing,5,19.27,96.35,2025-06-22,North,Card
+ORD-10086,CUST-0086,Coffee,Groceries,1,12.48,12.48,2025-06-24,South,Cash
+ORD-10087,CUST-0087,Monitor,Electronics,2,357.62,715.24,26/06/2025,East,Mobile Money
+ORD-10088,CUST-0088,Desk,furniture,4,236.99,,2025-06-28,West,Bank Transfer
+ORD-10089,CUST-0089,Notebook,Office Supplies,6,3.37,20.22,2025-06-30,North,Card
+ORD-10090,CUST-0090,Jeans,Clothing,3,51.68,155.04,02/07/2025,South,Cash
+ORD-10091,CUST-0091,Rice,Groceries,1,17.03,17.03,2025-07-04, east ,Mobile Money
+ORD-10092,CUST-0092,Keyboard,Electronics,4,38.22,152.88,2025-07-06,West,Bank Transfer
+ORD-10093,CUST-0093,Bookshelf,Furniture,3,156.37,469.11,08/07/2025,North,Card
+ORD-10094,CUST-0094,Pen Set,Office Supplies,2,10.75,21.50,2025-07-10,South,Cash
+ORD-10095,CUST-0095,Jacket,Clothing,1,96.05,96.05,2025-07-12,East,Mobile Money
+ORD-10096,CUST-0096,Cooking Oil,Groceries,2,15.58,31.16,14/07/2025,West,Bank Transfer
+ORD-10097,CUST-0097,Laptop,Electronics,1,708.57,708.57,2025-07-16,North,Card
+ORD-10098,CUST-0098,Office Chair,Furniture,1,181.51,181.51,2025-07-18,South,Cash
+ORD-10099,CUST-0099,Headphones,electronics,1,49.10,49.10,20/07/2025,East,Mobile Money
+ORD-10100,CUST-0100,Printer Paper,Office Supplies,1,5.99,5.99,2025-07-22,West,Bank Transfer
+ORD-10101,CUST-0101,T-Shirt,Clothing,5,18.47,92.35,2025-07-24,North,Card
+ORD-10102,CUST-0102,Coffee,Groceries,3,12.62,37.86,26/07/2025,South,Cash
+ORD-10103,CUST-0103,Monitor,Electronics,5,331.60,1658.00,2025-07-28,East,Mobile Money
+ORD-10104,CUST-0104,Desk,Furniture,4,240.27,961.08,2025-07-30, west ,Bank Transfer
+ORD-10105,CUST-0105,Notebook,Office Supplies,1,3.59,3.59,01/08/2025,North,Card
+ORD-10106,CUST-0106,Jeans,Clothing,3,51.49,154.47,2025-08-03,South,Cash
+ORD-10107,CUST-0107,Rice,Groceries,1,19.23,19.23,2025-08-05,East,Mobile Money
+ORD-10108,CUST-0108,Keyboard,Electronics,3,35.45,106.35,07/08/2025,West,Bank Transfer
+ORD-10109,CUST-0109,Bookshelf,Furniture,1,148.03,148.03,2025-08-09,North,Card
+ORD-10110,CUST-0110,Pen Set,office supplies,9,10.86,97.74,2025-08-11,South,Cash
+ORD-10111,CUST-0111,Jacket,Clothing,4,103.01,412.04,13/08/2025,East,Mobile Money
+ORD-10112,CUST-0112,Cooking Oil,Groceries,4,13.47,53.88,2025-08-15,West,Bank Transfer
+ORD-10113,CUST-0113,Laptop,Electronics,2,607.58,1215.16,2025-08-17,North,Card
+ORD-10114,CUST-0114,Office Chair,Furniture,4,177.27,709.08,19/08/2025,South,Cash
+ORD-10115,CUST-0115,Headphones,Electronics,2,46.75,93.50,2025-08-21,East,Mobile Money
+ORD-10116,CUST-0116,Printer Paper,Office Supplies,3,6.02,18.06,2025-08-23,West,Bank Transfer
+ORD-10117,CUST-0117,T-Shirt,Clothing,5,18.05,90.25,25/08/2025, north ,Card
+ORD-10118,CUST-0118,Coffee,Groceries,3,11.94,35.82,2025-08-27,South,Cash
+ORD-10119,CUST-0119,Monitor,Electronics,4,328.20,1312.80,2025-08-29,East,Mobile Money
+ORD-10120,CUST-0120,Desk,Furniture,4,258.29,1033.16,31/08/2025,West,Bank Transfer
+ORD-10121,CUST-0121,Notebook,office supplies,10,3.75,37.50,2025-09-02,North,Card
+ORD-10122,CUST-0122,Jeans,Clothing,2,57.90,115.80,2025-09-04,South,Cash
+ORD-10123,CUST-0123,Rice,Groceries,2,17.53,35.06,06/09/2025,East,Mobile Money
+ORD-10124,CUST-0124,Keyboard,Electronics,5,39.85,199.25,2025-09-08,West,Bank Transfer
+ORD-10125,CUST-0125,Bookshelf,Furniture,4,162.10,648.40,2025-09-10,North,Card
+ORD-10126,CUST-0126,Pen Set,Office Supplies,5,11.10,55.50,12/09/2025,South,Cash
+ORD-10127,CUST-0127,Jacket,Clothing,4,88.65,354.60,2025-09-14,East,Mobile Money
+ORD-10128,CUST-0128,Cooking Oil,Groceries,2,13.59,27.18,2025-09-16,West,Bank Transfer
+ORD-10129,CUST-0129,Laptop,Electronics,2,699.14,1398.28,18/09/2025,North,Card
+ORD-10130,CUST-0130,Office Chair,Furniture,4,185.82,743.28,2025-09-20, south ,Cash
+ORD-10131,CUST-0131,Headphones,Electronics,5,49.28,246.40,2025-09-22,East,Mobile Money
+ORD-10132,CUST-0132,Printer Paper,office supplies,9,6.75,60.75,24/09/2025,West,Bank Transfer
+ORD-10133,CUST-0133,T-Shirt,Clothing,3,21.04,63.12,2025-09-26,North,Card
+ORD-10134,CUST-0134,Coffee,Groceries,4,12.37,49.48,2025-09-28,South,Cash
+ORD-10135,CUST-0135,Monitor,Electronics,2,318.24,636.48,30/09/2025,East,Mobile Money
+ORD-10136,CUST-0136,Desk,Furniture,1,236.88,236.88,2025-10-02,West,Bank Transfer
+ORD-10137,CUST-0137,Notebook,Office Supplies,2,3.52,7.04,2025-10-04,North,Card
+ORD-10138,CUST-0138,Jeans,Clothing,5,54.76,273.80,06/10/2025,South,Cash
+ORD-10139,CUST-0139,Rice,Groceries,2,17.19,34.38,2025-10-08,East,Mobile Money
+ORD-10140,CUST-0140,Keyboard,Electronics,3,33.63,100.89,2025-10-10,West,Bank Transfer
+ORD-10141,CUST-0141,Bookshelf,Furniture,3,165.21,495.63,12/10/2025,North,Card
+ORD-10142,CUST-0142,Pen Set,Office Supplies,8,9.83,78.64,2025-10-14,South,Cash
+ORD-10143,CUST-0143,Jacket,clothing,2,101.53,203.06,2025-10-16, east ,Mobile Money
+ORD-10144,CUST-0144,Cooking Oil,Groceries,3,14.20,42.60,18/10/2025,West,Bank Transfer
+ORD-10010,CUST-0010,Jeans,Clothing,4,52.11,208.44,2025-01-23,South,Cash
